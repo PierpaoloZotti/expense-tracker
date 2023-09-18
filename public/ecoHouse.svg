@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 10.49px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #085f00;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke-width: 12.29px;
+      }
+
+      .cls-5 {
+        fill: #008eb4;
+        opacity: .89;
+      }
+
+      .cls-6 {
+        fill: #f7aa41;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-7 {
+        font-family: CreamySugar, 'Creamy Sugar';
+        font-size: 118.03px;
+      }
+    </style>
+  </defs>
+  <text class="cls-7" transform="translate(300.05 892.85)"><tspan x="0" y="0">eco House</tspan></text>
+  <g>
+    <path class="cls-5" d="m743.75,358.43v287.66c0,69.85-56.62,126.47-126.47,126.47h-245.98v-235.74l289.89-249.15,82.56,70.77"/>
+    <rect class="cls-3" x="256.25" y="94.53" width="467.35" height="681.12" rx="122.37" ry="122.37"/>
+    <polyline class="cls-3" points="351.15 772.55 351.15 536.82 641.04 287.66 723.6 358.43"/>
+    <polyline class="cls-3" points="456.76 392.34 520.15 340.74 520.15 265.55 577.65 265.55 577.65 287.66 642.52 228.69 723.6 293.56"/>
+    <g>
+      <path class="cls-4" d="m536.78,438.7c-4.3,0-7.78,3.48-7.78,7.78v139.65h152.75c6.83,0,12.37-5.54,12.37-12.37v-135.06h-157.34Z"/>
+      <line class="cls-4" x1="611.56" y1="438.7" x2="611.56" y2="586.12"/>
+      <line class="cls-4" x1="529" y1="487.35" x2="694.12" y2="487.35"/>
+    </g>
+    <g>
+      <path class="cls-2" d="m398.83,418.87c-126.58,123.42-164.72,233,0,310.83,168.36-84.89,124.89-193.33,0-310.83Z"/>
+      <line class="cls-2" x1="399.26" y1="544.68" x2="399.26" y2="775.65"/>
+    </g>
+    <circle class="cls-6" cx="411.59" cy="217.44" r="78.33"/>
+    <circle class="cls-1" cx="391.12" cy="228.69" r="78.33"/>
+  </g>
+</svg>
